@@ -1,4 +1,4 @@
 import api
 
 
-print('la prog c de la marde')
+print('la prog c cool')
